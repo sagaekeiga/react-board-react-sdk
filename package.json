@@ -2,7 +2,7 @@
   "name": "react-board-react-sdk",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
@@ -15,6 +15,7 @@
     "@babel/polyfill": "^7.8.7",
     "@babel/preset-env": "^7.9.5",
     "babel-loader": "^8.1.0",
+    "react-board-react-sdk": "^1.0.0",
     "react-intercom": "^1.0.15",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
